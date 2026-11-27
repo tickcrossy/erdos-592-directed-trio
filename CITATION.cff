@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, counterexample, or verification data in your research, please cite it as below."
+title: "Directed Trio Schedules for Erdos Problem #592 (Open Problem 1): Closed-Form Solvers and Counterexample Verification"
+type: software
+authors:
+  - alias: "tickcrossy"
+repository-code: "https://github.com/tickcrossy/erdos-592-directed-trio"
+url: "https://github.com/tickcrossy/erdos-592-directed-trio"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-27"
+keywords:
+  - erdos-problems
+  - erdos-592
+  - combinatorics
+  - ramsey-theory
+  - counterexample
+  - three-cursor-automaton
